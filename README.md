@@ -5,7 +5,7 @@ With some minor improvements (transparency, configurable inputs, etc.)
 
 This project is mostly just for fun.
 If, for some reason, you need a more serious version of this project, check out
-[https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker by ThatOneCalculator.](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker)
+[Among-Us-Dumpy-Gif-Maker by ThatOneCalculator.](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker)
 
 
 ## Example
