@@ -10,7 +10,7 @@ If, for some reason, you need a more serious version of this project, check out
 
 ## Example
 A Suss-ed Sunflower, with transparency
-![Example Result](/home/evan/projects/discord-susser/extra/example.gif "Example Result")
+![Example Result](extra/example.gif "Example Result")
 
 # Deploying
 
