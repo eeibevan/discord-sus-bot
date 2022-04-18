@@ -28,8 +28,9 @@ async def on_message(message: discord.Message):
     if message.author == client.user:
         return
 
-    # Only respond to direct calls & DMs
-    if '!sus' not in message.content and not isinstance(message.channel, discord.DMChannel):
+    # Only respond to direct calls, Mentions, & DMs
+    if '!sus' not in message.content and not isinstance(message.channel,
+                                                        discord.DMChannel) and client.user not in message.mentions:
         return
 
     # Input flags
